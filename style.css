@@ -1,0 +1,20 @@
+h3
+{
+    font-size: 25px !important;
+}
+
+canvas {
+    animation-name: example;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes examples {
+
+    from {box-shadow:}
+}
+body {
+    background: url("https://images.hdqwalls.com/wallpapers/abstract-dark-colorful-digital-art-yi.jpg")
+}
+
